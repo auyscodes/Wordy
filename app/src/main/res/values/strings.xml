@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="dict">Button</string>
+    <string-array name="toTranslate">
+        <item>Arabic</item>
+        <item>Chinese</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>English</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Turkish</item>
+    </string-array>
+    <string-array name="fromTranslate">
+        <item>English</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hungarian</item>
+        <item>Italian</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Turkish</item>
+    </string-array>
+    <string-array name="Translate">
+        <item>English</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Italian</item>
+        <item>Korean</item>
+        <item>Portuguese</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Turkish</item>
+    </string-array>
+</resources>
